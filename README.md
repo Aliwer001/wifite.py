@@ -1,2 +1,2 @@
-# wifite.py
-derv82
+# derv82
+wifite.py
